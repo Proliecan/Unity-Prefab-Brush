@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PrefabBrush/Example/ExampleScene.unity
+    guid: 9151166b183d45242b5ce8e1eb21a3a0
   m_configObjects: {}
