@@ -21,18 +21,6 @@ MonoBehaviour:
     prefab: {fileID: 8972589565278517728, guid: d67e21d700d5de84683d62de5a512b7a,
       type: 3}
     display: {fileID: 0}
-  - name: ExampleCube
-    prefab: {fileID: 6336331648459056302, guid: dc42622345a1fb84aaf7e957d8b38894,
-      type: 3}
-    display: {fileID: 0}
-  - name: ExampleSphere
-    prefab: {fileID: 8972589565278517728, guid: d67e21d700d5de84683d62de5a512b7a,
-      type: 3}
-    display: {fileID: 0}
-  - name: ExampleSphere
-    prefab: {fileID: 8972589565278517728, guid: d67e21d700d5de84683d62de5a512b7a,
-      type: 3}
-    display: {fileID: 0}
   activePrefab: {fileID: 6336331648459056302, guid: dc42622345a1fb84aaf7e957d8b38894,
     type: 3}
   m_Z: 0
