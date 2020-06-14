@@ -6,7 +6,7 @@ using UnityEngine.Tilemaps;
 using System.Linq;
 
 [CustomEditor(typeof(PrefabBrush))]
-public class MyPrefabBrushEditor : UnityEditor.Tilemaps.GridBrushEditorBase
+public class MyPrefabBrushEditor : GridBrushEditorBase
 {
 	[SerializeField] private Texture2D selectionBox;
 	private PrefabBrush prefabBrush { get { return target as PrefabBrush; } }
