@@ -1,12 +1,9 @@
 ﻿# if UNITY_EDITOR
-using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Tilemap;
-using UnityEngineInternal;
 using UnityEditor;
-using UnityEditorInternal;
+using UnityEngine.Tilemaps;
+using System.Linq;
 
 [CustomEditor(typeof(PrefabBrush))]
 public class MyPrefabBrushEditor : UnityEditor.Tilemaps.GridBrushEditorBase
